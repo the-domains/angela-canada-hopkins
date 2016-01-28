@@ -1,0 +1,28 @@
+name: Angela Canada Hopkins
+favicon: null
+layout_spectrum: 0.2327223289757967
+typography_spectrum: 0.5755014342721552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.18530787155032158
+  lightness: 0.19733253959566355
+  saturation: 0.801740997005254
+  rhythmicContrast: 0.017877658363431692
+purpose: []
